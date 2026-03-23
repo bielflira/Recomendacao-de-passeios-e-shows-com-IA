@@ -1,0 +1,7 @@
+POST http://127.0.0.1:5000/recomendar
+Content-Type: application/json
+
+{
+  "locais": "praia, bar",
+  "musicas": "funk, rock"
+}
